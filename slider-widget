@@ -55,28 +55,22 @@ jQuery(function() {
 <div class="fluid_container">
     <!-- camera_slideshow camera_wrap-->
     <div class="camera_wrap" id="camera_wrap_1">
-        <div data-link="https://scontent.fmad4-1.fna.fbcdn.net/v/t1.0-9/40684708_904703250906_5016508719257616384_n.jpg?_nc_cat=0&oh=bd1152a67f1d721bcba0bfdb4be5e1d9&oe=5C27D4F6" data-thumb="https://scontent.fmad4-1.fna.fbcdn.net/v/t1.0-9/40684708_904703250906_5016508719257616384_n.jpg?_nc_cat=0&oh=bd1152a67f1d721bcba0bfdb4be5e1d9&oe=5C27D4F6" data-src="https://scontent.fmad4-1.fna.fbcdn.net/v/t1.0-9/40684708_904703250906_5016508719257616384_n.jpg?_nc_cat=0&oh=bd1152a67f1d721bcba0bfdb4be5e1d9&oe=5C27D4F6">
+        <div data-link="https://raw.githubusercontent.com/finleyexp/gwc-slider1/main/img/photodune-10789223-sand-path-to-north-sea-beach-before-sunset-l.jpg" data-thumb="https://raw.githubusercontent.com/finleyexp/gwc-slider1/main/img/photodune-10789223-sand-path-to-north-sea-beach-before-sunset-l.jpg" data-src="https://raw.githubusercontent.com/finleyexp/gwc-slider1/main/img/photodune-10789223-sand-path-to-north-sea-beach-before-sunset-l.jpg">
             <div class="camera_caption fadeFromBottom" style
 ="font-family:'Kalam'; font-size: 2em; text-align:center;">
-                Be passionate about your path
+                Express yourself authentically
             </div>
         </div>
-        <div data-link="https://scontent.fmad4-1.fna.fbcdn.net/v/t1.0-9/40758235_904703171066_44110808778539008_n.jpg?_nc_cat=0&oh=8240ca5eb5282666db4ee91d6cbff6bb&oe=5C29BFB0" data-thumb="https://scontent.fmad4-1.fna.fbcdn.net/v/t1.0-9/40758235_904703171066_44110808778539008_n.jpg?_nc_cat=0&oh=8240ca5eb5282666db4ee91d6cbff6bb&oe=5C29BFB0" data-src="https://scontent.fmad4-1.fna.fbcdn.net/v/t1.0-9/40758235_904703171066_44110808778539008_n.jpg?_nc_cat=0&oh=8240ca5eb5282666db4ee91d6cbff6bb&oe=5C29BFB0">
+        <div data-link="https://raw.githubusercontent.com/finleyexp/lwc-slider2/master/mount-path.jpg" data-thumb="https://raw.githubusercontent.com/finleyexp/lwc-slider2/master/mount-path.jpg" data-src="https://raw.githubusercontent.com/finleyexp/lwc-slider2/master/mount-path.jpg">
             <div class="camera_caption fadeFromBottom" style
 ="font-family:'Kalam'; font-size: 2em; text-align:center;">
-                Find it. Live it. Love it.
+                Communicate Clearly
             </div>
         </div>
-        <div data-link="https://scontent.fmad4-1.fna.fbcdn.net/v/t1.0-9/40657874_904703121166_2034752885467643904_n.jpg?_nc_cat=0&oh=433ff6a7b0b75772b8d2dfb088abd96a&oe=5BF4CBB9" data-thumb="https://scontent.fmad4-1.fna.fbcdn.net/v/t1.0-9/40657874_904703121166_2034752885467643904_n.jpg?_nc_cat=0&oh=433ff6a7b0b75772b8d2dfb088abd96a&oe=5BF4CBB9" data-src="https://scontent.fmad4-1.fna.fbcdn.net/v/t1.0-9/40657874_904703121166_2034752885467643904_n.jpg?_nc_cat=0&oh=433ff6a7b0b75772b8d2dfb088abd96a&oe=5BF4CBB9">
+        <div data-link="https://raw.githubusercontent.com/finleyexp/gwc-slider1/main/img/photodune-17328601-steps-of-gold-xl.jpg" data-thumb="https://raw.githubusercontent.com/finleyexp/gwc-slider1/main/img/photodune-17328601-steps-of-gold-xl.jpg" data-src="https://raw.githubusercontent.com/finleyexp/gwc-slider1/main/img/photodune-17328601-steps-of-gold-xl.jpg">
             <div class="camera_caption fadeFromBottom" style
 ="font-family:'Kalam'; font-size: 2em; text-align:center;">
-                Power up your life
-            </div>
-        </div>
-        <div data-link="https://scontent.fmad4-1.fna.fbcdn.net/v/t1.0-9/40676357_904703196016_5244535675532869632_n.jpg?_nc_cat=0&oh=b46f1e2b1451f997964272d43cfdd101&oe=5C31A743" data-thumb="https://scontent.fmad4-1.fna.fbcdn.net/v/t1.0-9/40676357_904703196016_5244535675532869632_n.jpg?_nc_cat=0&oh=b46f1e2b1451f997964272d43cfdd101&oe=5C31A743" data-src="https://scontent.fmad4-1.fna.fbcdn.net/v/t1.0-9/40676357_904703196016_5244535675532869632_n.jpg?_nc_cat=0&oh=b46f1e2b1451f997964272d43cfdd101&oe=5C31A743">
-            <div class="camera_caption fadeFromBottom" style
-="font-family:'Kalam'; font-size: 2em; text-align:center;">
-                No apologies. No regrets.
+                Engage Mindfully
             </div>
         </div>
     </div>
